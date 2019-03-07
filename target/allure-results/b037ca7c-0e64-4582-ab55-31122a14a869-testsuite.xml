@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1551881361177" stop="1551881403431" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
-    <name>Default Suite : techUI</name>
-    <title>Default Suite : techUI</title>
+<ns2:test-suite start="1551965136756" stop="1551965185092" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>tech : tech2</name>
+    <title>tech : tech2</title>
     <test-cases>
-        <test-case start="1551881361273" stop="1551881403287" status="passed">
+        <test-case start="1551965137257" stop="1551965184968" status="passed">
             <name>test</name>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="zhou-PC"/>
-                <label name="thread" value="6364@zhou-PC.main(1)"/>
+                <label name="thread" value="7044@zhou-PC.TestNG(13)"/>
             </labels>
         </test-case>
     </test-cases>
