@@ -3,7 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="f6bb873c-ee90-4d7e-a57a-26171ae085ef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b037ca7c-0e64-4582-ab55-31122a14a869-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cb4741fd-6ca1-4180-a7f6-6c3b528aae43-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-TechTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-TechTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tech/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tech/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tech/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tech/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tech/tech1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tech/tech1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tech/tech2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tech/tech2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tech/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/tech/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tech/tech1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tech/tech1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tech/tech1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tech/tech1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tech/tech2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tech/tech2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tech/tech2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tech/tech2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng-parallel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-parallel.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+            <state relative-caret-position="1710">
+              <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -29,16 +46,16 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TechTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng-parallel.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testng-parallel.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng-parallel.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="209">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -52,8 +69,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/TechTest.java" />
-        <option value="$PROJECT_DIR$/testng-parallel.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testng-parallel.xml" />
       </list>
     </option>
   </component>
@@ -267,7 +284,7 @@
       <updated>1551800309107</updated>
       <workItem from="1551800313615" duration="1534000" />
       <workItem from="1551880889886" duration="1284000" />
-      <workItem from="1551961451489" duration="2160000" />
+      <workItem from="1551961451489" duration="3548000" />
     </task>
     <servers />
   </component>
@@ -292,7 +309,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4982000" />
+    <option name="totallyTimeSpent" value="6370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
@@ -309,10 +326,10 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32894737" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.260574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.260574" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,24 +419,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng-parallel.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TechTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng-parallel.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="92" column="36" lean-forward="true" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>

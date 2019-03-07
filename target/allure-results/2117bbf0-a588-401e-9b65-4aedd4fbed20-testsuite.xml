@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1551965136756" stop="1551965185092" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1551965390382" stop="1551965419019" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>tech : tech2</name>
     <title>tech : tech2</title>
     <test-cases>
-        <test-case start="1551965137257" stop="1551965184968" status="passed">
+        <test-case start="1551965390476" stop="1551965418993" status="passed">
             <name>test</name>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="zhou-PC"/>
-                <label name="thread" value="7044@zhou-PC.TestNG(13)"/>
+                <label name="thread" value="6512@zhou-PC.TestNG(13)"/>
             </labels>
         </test-case>
     </test-cases>
