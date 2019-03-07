@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="18.14" tests="2" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="22.954" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_171\jre\bin"/>
@@ -64,51 +64,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test" classname="TechTest" time="18.14">
-    <failure message="Element not found {by text: Welcome Gaofei!}&#10;Expected: visible" type="com.codeborne.selenide.ex.ElementNotFound">com.codeborne.selenide.ex.ElementNotFound: Element not found {by text: Welcome Gaofei!}
-Expected: visible
-	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:638)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:476)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
-	at com.codeborne.selenide.impl.WebElementSelector.findElement(WebElementSelector.java:28)
-	at com.codeborne.selenide.impl.ElementFinder.getWebElement(ElementFinder.java:56)
-	at com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:44)
-	at com.codeborne.selenide.commands.Should.should(Should.java:35)
-	at com.codeborne.selenide.commands.Should.execute(Should.java:29)
-	at com.codeborne.selenide.commands.Should.execute(Should.java:12)
-	at com.codeborne.selenide.commands.Commands.execute(Commands.java:140)
-	at com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:86)
-	at com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:62)
-	at com.sun.proxy.$Proxy2.should(Unknown Source)
-	at TechTest.test(TechTest.java:32)
-</failure>
-    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-三月 07, 2019 9:29:54 下午 org.openqa.selenium.remote.ProtocolHandshake createSession
-信息: Detected dialect: OSS
-三月 07, 2019 9:29:54 下午 org.openqa.selenium.remote.ProtocolHandshake createSession
-信息: Detected dialect: OSS
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
-信息: BrowserName=chrome Version=72.0.3626.119 Platform=LINUX
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
-信息: Selenide v. 4.4.3
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.impl.WebDriverThreadLocalContainer createDriver
-信息: Create webdriver in current thread 13: RemoteWebDriver -> RemoteWebDriver: chrome on LINUX (ccc229856ec5f3010bf2602a92f49343)
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
-信息: BrowserName=chrome Version=72.0.3626.119 Platform=LINUX
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
-信息: Selenide v. 4.4.3
-三月 07, 2019 9:29:55 下午 com.codeborne.selenide.impl.WebDriverThreadLocalContainer createDriver
-信息: Create webdriver in current thread 12: RemoteWebDriver -> RemoteWebDriver: chrome on LINUX (d3300ccccb4df558bdc03d9b5b38b48b)
-]]></system-err>
-  </testcase>
-  <testcase name="test" classname="TechTest" time="28.572"/>
+  <testcase name="test" classname="TechTest" time="22.954"/>
+  <testcase name="test" classname="TechTest" time="0.503"/>
 </testsuite>
